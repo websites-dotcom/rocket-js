@@ -74,7 +74,7 @@ function changeState(state){
 
 			}
 
-		}, 2000)
+		}, 3500)
 
 	}
 
